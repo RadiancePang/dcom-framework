@@ -1,0 +1,9 @@
+group = 'com.bangyou.dcom.framework'
+version = dcomInitVersion
+
+dependencies {
+    compile("io.springfox:springfox-swagger2:${springfoxSwaggerVersion}")
+    compile ("com.google.guava:guava:${guavaVersion}")
+    compile ("org.apache.commons:commons-lang3:${apacheLangVersion}")
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.3'
+}

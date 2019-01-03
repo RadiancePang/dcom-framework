@@ -1,0 +1,12 @@
+group = 'com.bangyou.dcom.framework'
+version = dcomInitVersion
+
+dependencies {
+
+    compile ("mysql:mysql-connector-java:${mySqlConnectorVersion}")
+
+    compile ("com.alibaba:druid-spring-boot-starter:${druidVersion}")
+
+    compile ("org.mybatis.spring.boot:mybatis-spring-boot-starter:${myBatisSpringBootVersion}")
+
+}

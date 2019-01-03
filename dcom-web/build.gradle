@@ -1,0 +1,10 @@
+group = 'com.bangyou.dcom.framework'
+version = dcomInitVersion
+
+dependencies {
+
+    compile("com.bangyou.dcom.framework:dcom-common:${dcomInitVersion}")
+
+    compile("org.springframework.boot:spring-boot-starter-web:${dcomInitSpringBoot}")
+
+}
