@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache.iml" group="dcom-cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache_main.iml" group="dcom-cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-cache/dcom-cache_test.iml" group="dcom-cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common.iml" group="dcom-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common_main.iml" group="dcom-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-common/dcom-common_test.iml" group="dcom-common" />
+      <module fileurl="file://$PROJECT_DIR$/dcom-framework.iml" filepath="$PROJECT_DIR$/dcom-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-framework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-framework_main.iml" group="dcom-framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-framework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-framework_test.iml" group="dcom-framework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage.iml" group="dcom-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage_main.iml" group="dcom-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-storage/dcom-storage_test.iml" group="dcom-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web.iml" group="dcom-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web_main.iml" group="dcom-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dcom-web/dcom-web_test.iml" group="dcom-web" />
+    </modules>
+  </component>
+</project>

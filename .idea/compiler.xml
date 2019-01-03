@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="dcom-cache_main" target="1.8" />
+      <module name="dcom-cache_test" target="1.8" />
+      <module name="dcom-common_main" target="1.8" />
+      <module name="dcom-common_test" target="1.8" />
+      <module name="dcom-framework_main" target="1.8" />
+      <module name="dcom-framework_test" target="1.8" />
+      <module name="dcom-storage_main" target="1.8" />
+      <module name="dcom-storage_test" target="1.8" />
+      <module name="dcom-web_main" target="1.8" />
+      <module name="dcom-web_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

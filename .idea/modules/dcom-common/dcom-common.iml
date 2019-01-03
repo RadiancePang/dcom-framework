@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":dcom-common" external.linked.project.path="$MODULE_DIR$/../../../dcom-common" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.bangyou.dcom.framework" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../dcom-common">
+      <excludeFolder url="file://$MODULE_DIR$/../../../dcom-common/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../dcom-common/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../dcom-common/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
